@@ -16,6 +16,8 @@
     "customize-cra": "^1.0.0",
     "draft-js": "^0.11.7",
     "draftjs-to-html": "^0.9.1",
+    "echarts": "^4.9.0",
+    "echarts-for-react": "^2.0.16",
     "html-to-draftjs": "^1.5.0",
     "http-proxy-middleware": "^1.0.6",
     "jsonp": "^0.2.1",
@@ -27,7 +29,8 @@
     "react-dom": "^16.13.1",
     "react-draft-wysiwyg": "^1.14.5",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "redux": "^4.0.5"
   },
   "scripts": {
     "start": "craco start",
